@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello"><b>Hello World :-)</b> To enable the Live Logcat Display, tap the
+        \"OFF\" button. To disable it, tap the button again.
+        </string>
+    <string name="app_name">LogHud</string>
+
+</resources>
